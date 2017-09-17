@@ -2,7 +2,7 @@ package com.javatpoint;
 import java.sql.*;
 public class GetCon {
 private GetCon(){}
-
+//srava
 public static Connection con;
 static{
 	try {
